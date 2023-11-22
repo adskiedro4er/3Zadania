@@ -1,0 +1,30 @@
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.exe
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.deps.json
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.runtimeconfig.json
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.dll
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.pdb
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.csproj.AssemblyReference.cache
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.AssemblyInfoInputs.cache
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.AssemblyInfo.cs
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.dll
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\refint\OppositeNumbers.dll
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.pdb
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.genruntimeconfig.cache
+C:\Users\212222\source\repos\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\ref\OppositeNumbers.dll
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.exe
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.deps.json
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.runtimeconfig.json
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.dll
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\bin\Debug\net6.0\OppositeNumbers.pdb
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.csproj.AssemblyReference.cache
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.AssemblyInfoInputs.cache
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.AssemblyInfo.cs
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.dll
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\refint\OppositeNumbers.dll
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.pdb
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\OppositeNumbers.genruntimeconfig.cache
+C:\Users\212222\Desktop\c#\15.11\2 задание\OppositeNumbers\OppositeNumbers\obj\Debug\net6.0\ref\OppositeNumbers.dll

@@ -1,0 +1,30 @@
+C:\Users\212222\source\repos\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.exe
+C:\Users\212222\source\repos\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.deps.json
+C:\Users\212222\source\repos\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.runtimeconfig.json
+C:\Users\212222\source\repos\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.dll
+C:\Users\212222\source\repos\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.pdb
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.AssemblyReference.cache
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfo.cs
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.dll
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\refint\Temperatura.dll
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.pdb
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.genruntimeconfig.cache
+C:\Users\212222\source\repos\Temperatura\Temperatura\obj\Debug\net6.0\ref\Temperatura.dll
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.exe
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.deps.json
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.runtimeconfig.json
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.dll
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\bin\Debug\net6.0\Temperatura.pdb
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.AssemblyReference.cache
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.AssemblyInfo.cs
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.dll
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\refint\Temperatura.dll
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.pdb
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\Temperatura.genruntimeconfig.cache
+C:\Users\212222\Desktop\c#\15.11\3 задание\Temperatura\Temperatura\obj\Debug\net6.0\ref\Temperatura.dll
